@@ -1,0 +1,33 @@
+body {
+  background-color: #4dd0e1;
+}
+
+.Scenes-container {
+
+}
+
+.header {
+  text-align: center;
+  margin: 20px;
+  height: 80px;
+  padding: 20px;
+  background-color: #80deea;
+}
+
+.tile {
+  height: 150px;
+  width: 150px;
+  margin: 20px;
+  float: left;
+  font-size: 11px;
+  text-align: left;
+  background-color: #80deea;
+}
+
+.btn {
+  background-color:
+}
+
+.Scenes-container-header {
+  text-align: center;
+}
